@@ -3,7 +3,7 @@ Univerzitní projekt do předmětu IDS (Databázové systémy - Database Systems
 
 ## Databázový systém pro pivovarníky
 
-Databázový systém pro fanoušky dobrého piva. 
+**Databázový systém pro fanoušky dobrého piva.**
 
 Každé pivo má název, barvu (tmavé, polotmavé, světlé; můžete uvažovat stupnici EBC), styl kvašení
 (svrchně, spodně,.), bližší specifikaci typu (ale, stout, ipa, apa, red ipa, .) a obsah
